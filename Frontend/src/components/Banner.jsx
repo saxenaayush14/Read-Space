@@ -11,9 +11,10 @@ function Banner() {
               <span className="text-pink-500">new everyday!!!</span>
             </h1>
             <p className="text-sm md:text-xl">
-              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolor,
-              et totam. Tempora amet atque expedita, quae corrupti totam sed
-              pariatur corporis at veniam est voluptas animi!
+              At ReadSpace, we believe in the power of books to open minds, spark imaginations, and enrich lives. Whether you're looking for the latest bestsellers, timeless classics, or hidden gems across genres, you'll find them all here.
+              <br />
+              <br />
+              Browse, read, and let your next adventure begin!
             </p>
             <label className="input input-bordered flex items-center gap-2">
               <svg
